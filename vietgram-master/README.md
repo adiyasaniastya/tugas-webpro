@@ -1,3 +1,2 @@
-# vietgram
-
-On this repository I'll clone Instagram front end and back end
+mohon maaf pak, saya tidak sepenuhnya menyelesaikan.
+saya masih belum begitu memahami secara sepenuhnya
